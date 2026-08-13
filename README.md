@@ -12,8 +12,8 @@ Selected samples demonstrating multiplayer systems, UI, Steam integration, and r
 ### Inkression
 Selected samples demonstrating interaction architecture, save/load systems, and UI.
 
-### Other Projects
+> Commercial project samples have been selectively extracted for portfolio purposes. Full source code is not publicly available.
+
+## Other Projects
 
 Selected samples from personal projects demonstrating additional gameplay programming focusing on physics.
-
-> Commercial project samples have been selectively extracted for portfolio purposes. Full source code is not publicly available.
